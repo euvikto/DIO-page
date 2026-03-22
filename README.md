@@ -33,6 +33,7 @@ npm start
 A aplicação estará disponível em:
 
 http://localhost:3000
+
 📚 Aprendizados
 
 Durante o desenvolvimento, pratiquei:
