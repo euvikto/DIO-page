@@ -10,7 +10,7 @@ Criação de componentes
 Organização do projeto
 Reutilização de código
 ⚙️ Como rodar
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/euvikto/DIO-page
 cd seu-repo
 npm install
 npm start
